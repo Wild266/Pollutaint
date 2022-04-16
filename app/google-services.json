@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757753676117",
+    "project_id": "nollution",
+    "storage_bucket": "nollution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757753676117:android:aea4b84d2926b51b4c6fdc",
+        "android_client_info": {
+          "package_name": "com.example.pollutaint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757753676117-qgtmkttdfm8au0sbn463te5v377mm2mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLgVSEYVWKKeT8jZx52CCFRmhau-GWPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757753676117-qgtmkttdfm8au0sbn463te5v377mm2mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
