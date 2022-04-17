@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Pollutaint'
+rootProject.name='My Application'
